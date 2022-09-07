@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: September 7 - 8, 2022[1;5D[1;5D[1;5D[F
+- Class Date: September 7 - 8, 2022
 - Facilitator: @obrocki
 
 ## Class Resources
